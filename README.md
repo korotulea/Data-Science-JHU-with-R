@@ -1,7 +1,7 @@
 Data-Science-JHU-with-R
 ===================
 
-A Specialization on Coursera from Johns Hopkins University.
+A Data Science Specialization on Coursera from Johns Hopkins University.
 
 This specialization covers the concepts and tools needed throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. The Specialization concludes with a Capstone project that allows students to apply the skills they have learned throughout the courses.
 
