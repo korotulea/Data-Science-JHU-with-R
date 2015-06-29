@@ -7,9 +7,11 @@ This specialization covers the concepts and tools needed throughout the entire d
 
 List of course:
 
-The Data Scientist’s Toolbox: https://www.coursera.org/account/accomplishments/certificate/SEYDMAWKJK
+The Data Scientist’s Toolbox: My certificate with distinction:
+https://www.coursera.org/account/accomplishments/certificate/SEYDMAWKJK
 
-R Programming
+R Programming: My certificate with distinction:
+https://www.coursera.org/account/accomplishments/certificate/WWSX5UC3NF
 
 Getting and Cleaning Data
 
