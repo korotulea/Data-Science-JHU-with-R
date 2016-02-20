@@ -1,5 +1,4 @@
-Data-Science-JHU-with-R
-===================
+<h1>Data Science with R</h1>
 
 A Data Science Specialization on Coursera from Johns Hopkins University.
 
